@@ -1,0 +1,88 @@
+.card {
+  background-color: #000000;
+  border-radius: 10px;
+  border: none;
+  margin: 10px;
+  padding: 20px;
+}
+.head {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 16px;
+}
+
+.match-details {
+  display: flex;
+  flex-direction: column;
+}
+
+.team-name {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 16px;
+}
+.match-date {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 16px;
+}
+
+.match-venue {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 14px;
+}
+
+.match-result {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 14px;
+}
+
+.image {
+  height: 100px;
+  width: 100px;
+  margin-top: 30px;
+  margin-left: 15px;
+  margin-right: 10px;
+}
+
+.line {
+  width: 100%;
+}
+
+.details {
+  display: flex;
+  flex-direction: column;
+}
+
+.heading {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 16px;
+}
+
+.innings-1 {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 14px;
+}
+
+.innings-2 {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 14px;
+}
+
+.player-of-the-match {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 14px;
+}
+
+.umpires {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 16px;
+  font-weight:bold;
+}
